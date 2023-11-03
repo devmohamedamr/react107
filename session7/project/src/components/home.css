@@ -1,0 +1,9 @@
+.btn {
+    border: none;
+    border-radius: 10%;
+    background: green;
+    padding: 10px 20px;
+}
+.btn:hover {
+    cursor: pointer;
+}
